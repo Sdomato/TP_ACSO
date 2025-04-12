@@ -1,0 +1,81 @@
+== Ejercicio 1a ==
+
+Creando lista vacia
+
+======================== Libera memoria =======================
+
+Creando nodo vacio
+
+======================== Libera memoria =======================
+
+Creando lista vacia
+
+List length: 0
+
+Agregando estrellas:
+
+List length: 12
+	node hash: sol | type: 32
+	node hash: polaris | type: 32
+	node hash: rigel | type: 32
+	node hash: pollux | type: 32
+	node hash: deneb | type: 32
+	node hash: adhara | type: 32
+	node hash: betelgeuse | type: 32
+	node hash: sirio | type: 32
+	node hash: procyon | type: 32
+	node hash: altair | type: 32
+	node hash: achenar | type: 32
+	node hash: fomalhaut | type: 32
+
+======================== Libera memoria =======================
+
+Creando lista vacia
+
+Agregando constelaciones y misiones:
+
+List length: 28
+	node hash: geminis | type: 32
+	node hash: pisis | type: 32
+	node hash: cefeo | type: 32
+	node hash: pavo | type: 32
+	node hash: libra | type: 32
+	node hash: auriga | type: 32
+	node hash: sagitario | type: 32
+	node hash: pavo | type: 32
+	node hash: crux | type: 32
+	node hash: cisne | type: 32
+	node hash: orion | type: 32
+	node hash: centauro | type: 32
+	node hash: juno | type: 32
+	node hash: hubble | type: 32
+	node hash: irazusta | type: 32
+	node hash: terra | type: 32
+	node hash: cassini-huygens | type: 32
+	node hash: artemis | type: 32
+	node hash: columbia | type: 32
+	node hash: kepler | type: 32
+	node hash: aqua | type: 32
+	node hash: sputnik | type: 32
+	node hash: insight | type: 32
+	node hash: messenger | type: 32
+	node hash: osiris | type: 32
+	node hash: rex | type: 32
+	node hash: chandra | type: 32
+	node hash: curiosity | type: 32
+
+======================== Libera memoria =======================
+
+======================== Fin del test 1a ========================= Ejercicio 1b ==
+
+Agregando constelaciones y misiones:
+
+junta-constelaciones-mision-estrellas:
+junta-constelaciones-mision-estrellas:
+junta-constelaciones-mision-estrellas:
+junta-constelaciones-mision-estrellas:
+junta-constelaciones-mision-estrellas:
+junta-constelaciones-mision-estrellas:
+junta-constelaciones-mision-estrellas:
+junta-constelaciones-mision-estrellas:
+======================== Fin del test 1b =======================

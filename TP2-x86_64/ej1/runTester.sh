@@ -18,7 +18,7 @@ ERRORDIFF=0
 
 ./tester
 
-$DIFFER salida.caso.propio.ej1.txt salida.catedra.ej1.txt > /tmp/diff1
+$DIFFER salida.caso.propio.ej1.txt salida.catedra.ej1.txt > /home/sdomato/diff1
 if [ $? -ne 0 ]; then
   echo "  **Discrepancia en el ejercicio 1"
   ERRORDIFF=1
