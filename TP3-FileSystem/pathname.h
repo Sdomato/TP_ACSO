@@ -3,11 +3,8 @@
 
 #include "unixfilesystem.h"
 
-/**
- * Returns the inode number associated with the specified pathname.  This need only
- * handle absolute paths.  Returns a negative number (-1 is fine) if an error is 
- * encountered.
- */
+/* solo la firma */
 int pathname_lookup(struct unixfilesystem *fs, const char *pathname);
 
-#endif // _PATHNAME_H_
+#endif /* _PATHNAME_H_ */
+
