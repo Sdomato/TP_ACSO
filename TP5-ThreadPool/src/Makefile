@@ -3,8 +3,8 @@ CXX = g++
 CXXFLAGS = -std=c++11 -Wall -pthread -g
 
 # Build targets
-TARGET = threadpool
-SRC = thread-pool.cc Semaphore.cc main.cc
+TARGET = tptest
+SRC = thread-pool.cc Semaphore.cc tptest.cc
 
 # Link the target with object files
 $(TARGET): $(SRC)
@@ -12,6 +12,6 @@ $(TARGET): $(SRC)
 
 # Clean up build artifacts
 clean:
-	rm -f $(TARGET) $(OBJ)
+	rm -f threadpool tptest tpcustomtest
 
 .PHONY: all clean
